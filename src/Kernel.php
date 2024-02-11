@@ -6,6 +6,8 @@ use Symfony\Bundle\FrameworkBundle\Kernel\MicroKernelTrait;
 use Symfony\Component\HttpKernel\Kernel as BaseKernel;
 
 // MBA 2nd
+// This is kernel
+// MBA
 class Kernel extends BaseKernel
 {
     use MicroKernelTrait;
